@@ -85,7 +85,7 @@ Antes de guardar nada, **comprueba**:
 - 🧾 **Si de verdad es para ti**: te avisa si la factura va dirigida a otra empresa.
 
 <p align="center">
-  <img src="docs/screenshots/escaner.png" alt="Escáner de gastos de Fixco avisando de que el archivo ya estaba guardado y sugiriendo la cuenta de gasto" width="900">
+  <img src="docs/screenshots/escaner.png" alt="Escáner de gastos de Fixco: la factura de alquiler leída con su IVA y retención, y el proveedor nuevo detectado" width="900">
 </p>
 
 Y para los cobros: **importa el extracto del banco** y Fixco descarta los movimientos que ya tenías y te propone con qué factura casar cada uno.
